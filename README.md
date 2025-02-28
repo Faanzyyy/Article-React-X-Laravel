@@ -32,8 +32,8 @@ Ensure you have the following installed on your system:
 
 ### 1️⃣ Clone Repository
 ```sh
- git clone https://github.com/your-repo/article-project.git
- cd article-project
+ git clone https://github.com/Faanzyyy/Article-React-X-Laravel.git
+ cd article-react-x-laravel
 ```
 
 ### 2️⃣ Backend Setup (Laravel)
@@ -96,7 +96,5 @@ Feel free to contribute! Fork the repo, make your changes, and submit a pull req
 ---
 
 ### 👨‍💻 Developed By
-**Your Name** - [GitHub](https://github.com/your-profile)
-
-Happy coding! 🎉
+**Fandie** - [GitHub](https://github.com/Faanzyyy/)
 
